@@ -296,5 +296,5 @@ def run_yolo_detection(video_path, model_path, conf_threshold=0.5, start_time=0,
 
 # Main Execution
 input_video = r"C:\Users\garg1\OneDrive\Desktop\PS1\3\traffic_video.avi"  # Change to your .mov or .mp4 file
-model_path = r"C:\Users\garg1\OneDrive\Desktop\100K\traffic_detection\yolov8m_finetune4\weights\best.pt"
+model_path = r"C:\Users\garg1\OneDrive\Desktop\KrackHacK-akatsuki\Website-rendering\best.pt"
 run_yolo_detection(input_video, model_path, conf_threshold=0.5, start_time=10, end_time=30)
