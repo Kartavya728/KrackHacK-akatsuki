@@ -18,7 +18,7 @@ if __name__ == '__main__':
 
     # 2. Fine-Tune without forgetting COCO knowledge
     model.train(
-        data=r"C:/Users/garg1/OneDrive/Desktop/100K/dataset/data.yaml",
+        data=r"C:/Users/garg1/OneDrive/Desktop/100K/dataset/data.yaml", # Insert the path here
         epochs=8,  # Fine-tuning
         imgsz=640,  # Better for small objects
         batch=8,  # Adjust based on GPU memory
