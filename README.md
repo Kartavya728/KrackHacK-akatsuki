@@ -39,7 +39,7 @@ This code implements a **YOLO-based object detection system** with a **Streamlit
 ---
 
 ## 🚀 Steps to Run the Code
-# Either open the folder model-training and run the files moving_camera.py and static_camera.py or 
+## Either open the folder model-training and run the files moving_camera.py and static_camera.py or 
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Kartavya728/KrackHacK-akatsuki
