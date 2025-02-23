@@ -20,6 +20,12 @@ This repository contains a **YOLO-based deep learning model** integrated with **
 - Helps in traffic monitoring and urban planning by counting vehicles and analyzing road conditions.  
 
 ---
+## ⚙️ Tech Stack
+- **Deep Learning:** YOLO (You Only Look Once) by Ultralytics  
+- **Frontend:** Streamlit   
+- **Computer Vision:** OpenCV, VidGear (CamGear)  
+- **Data Processing:** NumPy  
+- **Model Training:** Custom YOLO model trained on 70,023 images and validated with 9,977 images  
 
 ## 🛠 Technical Overview
 This code implements a **YOLO-based object detection system** with a **Streamlit frontend** for real-time and offline video analysis. It utilizes:
