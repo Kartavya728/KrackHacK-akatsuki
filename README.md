@@ -54,4 +54,5 @@ Check if all dependencies are downloaded else download the required library
 ```bash
 streamlit run app.py
 ```
+### Ensure that you change the paths accordingly..
 ## 📁 Repository Structure
