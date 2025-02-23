@@ -56,3 +56,12 @@ streamlit run app.py
 ```
 ### Ensure that you change the paths accordingly..
 ## 📁 Repository Structure
+KrackHacK-akatsuki:.
+├───Data cleaning
+│   └───traffic_detection
+│       ├───yolov8m_finetune4
+│       │   └───weights
+│       └───yolov8m_finetune42
+├───Model Training
+└───Website-rendering
+## Weights: https://github.com/Kartavya728/KrackHacK-akatsuki/blob/main/Website-rendering/best.pt
