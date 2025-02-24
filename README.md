@@ -5,9 +5,11 @@ This repository contains a **YOLO-based deep learning model** integrated with **
 
 ---
 ## Data Set: https://datasetninja.com/bdd100k#download
+## Model training code Explain video: https://youtu.be/U5GBwuvzZ0c?feature=shared
+## Weights file of our model: 
 ## PPT : https://gamma.app/docs/Real-Time-Object-Detection-in-Traffic-Systems-A-YOLO-Based-Approa-937lb3fj0t2soqr?mode=doc
-## Explaining Vision Drive: https://www.dailymotion.com/video/k2ksyCYFIjSH2hCxqRC
-## 🔑 Key Features(Unique features)
+## Explaining Vision Drive: https://youtu.be/uncZRa8YB0U?feature=shared
+## 🔑 Key Features(Uniqueness of our model)
 
 
 ✅ **Two Modes:**  
