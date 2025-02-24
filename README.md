@@ -7,7 +7,8 @@ This repository contains a **YOLO-based deep learning model** integrated with **
 ## Data Set: https://datasetninja.com/bdd100k#download
 ## PPT : https://gamma.app/docs/Real-Time-Object-Detection-in-Traffic-Systems-A-YOLO-Based-Approa-937lb3fj0t2soqr?mode=doc
 ## Explaining Vision Drive: https://www.dailymotion.com/video/k2ksyCYFIjSH2hCxqRC
-## 🔑 Key Features
+## 🔑 Key Features(Unique features)
+
 
 ✅ **Two Modes:**  
 - **Moving Camera Model**: Assists drivers by detecting traffic lights and driving areas in real-time.  
@@ -20,7 +21,9 @@ This repository contains a **YOLO-based deep learning model** integrated with **
 
 ✅ **Automated Traffic Analysis:**  
 - Helps in traffic monitoring and urban planning by counting vehicles and analyzing road conditions.  
-
+✅ **Multi-Object detection:**  
+- **Traffic signal and sign detection**: Assists drivers to slow or stop the car as per driving area and traffic signal info  
+- **Differetiate in vehicals**: Detects car,bus,truck,motorcycle and riders 
 ---
 ## ⚙️ Tech Stack
 - **Deep Learning:** YOLO (You Only Look Once) by Ultralytics  
