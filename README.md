@@ -37,6 +37,15 @@ This code implements a **YOLO-based object detection system** with a **Streamlit
 - **NumPy**, **tempfile**, and **time.sleep()** for optimized performance and smoother processing.  
 - The model was trained on **70,023 images** and validated with **9,977 images**, ensuring **robust detection accuracy** for various traffic scenarios.  
 
+## Model Analysis
+![alt](https://github.com/Kartavya728/KrackHacK-akatsuki/blob/main/Data%20cleaning/traffic_detection/yolov8m_finetune4/F1_curve.png)
+![alt](https://github.com/Kartavya728/KrackHacK-akatsuki/blob/main/Data%20cleaning/traffic_detection/yolov8m_finetune4/PR_curve.png)
+![alt](https://github.com/Kartavya728/KrackHacK-akatsuki/blob/main/Data%20cleaning/traffic_detection/yolov8m_finetune4/P_curve.png)
+![alt](https://github.com/Kartavya728/KrackHacK-akatsuki/blob/main/Data%20cleaning/traffic_detection/yolov8m_finetune4/R_curve.png)
+![alt](https://github.com/Kartavya728/KrackHacK-akatsuki/blob/main/Data%20cleaning/traffic_detection/yolov8m_finetune4/confusion_matrix.px)
+![alt](https://github.com/Kartavya728/KrackHacK-akatsuki/blob/main/Data%20cleaning/traffic_detection/yolov8m_finetune4/confusion_matrix_normalized.png)
+![alt](https://github.com/Kartavya728/KrackHacK-akatsuki/blob/main/Data%20cleaning/traffic_detection/yolov8m_finetune4/results.png)
+
 ---
 
 ## 🚀 Steps to Run the Code
