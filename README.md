@@ -6,7 +6,7 @@ This repository contains a **YOLO-based deep learning model** integrated with **
 ---
 ## Data Set: https://datasetninja.com/bdd100k#download
 ## Model training code Explain video: https://youtu.be/U5GBwuvzZ0c?feature=shared
-## Weights file of our model: 
+## Weights file of our model: https://github.com/Kartavya728/KrackHacK-akatsuki/blob/main/Data%20cleaning/traffic_detection/yolov8m_finetune4/weights/best.pt
 ## PPT : https://gamma.app/docs/Real-Time-Object-Detection-in-Traffic-Systems-A-YOLO-Based-Approa-937lb3fj0t2soqr?mode=doc
 ## Explaining Vision Drive: https://youtu.be/uncZRa8YB0U?feature=shared
 ## 🔑 Key Features(Uniqueness of our model)
