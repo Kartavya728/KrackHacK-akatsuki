@@ -5,6 +5,7 @@ This repository contains a **YOLO-based deep learning model** integrated with **
 
 ---
 ## Data Set: https://datasetninja.com/bdd100k#download
+## PPT : https://gamma.app/docs/Real-Time-Object-Detection-in-Traffic-Systems-A-YOLO-Based-Approa-937lb3fj0t2soqr?mode=doc
 ## 🔑 Key Features
 
 ✅ **Two Modes:**  
