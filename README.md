@@ -56,6 +56,7 @@ Check if all dependencies are downloaded else download the required library
 streamlit run app.py
 ```
 ### Ensure that you change the paths accordingly..
+### Video for running the code-- https://www.dailymotion.com/video/k1SWKtGbifZzs5CxqKY
 ## 📁 Repository Structure
 KrackHacK-akatsuki:.
 ├───Data cleaning
